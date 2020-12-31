@@ -4,7 +4,7 @@ import './App.css';
 function App() {
 	return (
 		<div className='App' style={{background:'red'}}>
-			<h1>Header here here.</h1>
+			<h1>Header here here</h1>
 		</div>
 	);
 }
